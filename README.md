@@ -1,1 +1,1 @@
-# Traning-center
+# Training-center
