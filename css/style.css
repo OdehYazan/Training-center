@@ -44,13 +44,8 @@
 }
 
 .bg {
-  /* The image used */
   background-image: url("http://apartmani-boom.com/images/pozadina.jpg");
-
-  /* Full height */
   height: 100%;
-
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
