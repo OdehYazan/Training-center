@@ -1,0 +1,63 @@
+ 
+      h1{
+        color: #000000;
+        text-align: center; background: whitesmoke;
+      }
+     
+      nav ul li {
+        display: inline-block;
+        margin: 100px;
+        box-align: 20px;
+        padding: 20px;
+        font-size: 30px;
+        background: whitesmoke;
+      }
+      img {
+        width: 500px;
+       
+        display: block;
+         margin-left: auto;
+         margin-right: auto;
+           
+
+      }
+      h2{
+        color: gold;
+      }
+      
+      p{
+        color: black;
+        background: whitesmoke;
+
+      }
+      a{
+        color: #000000;
+        text-decoration-line: none;
+        
+
+      }
+      
+
+      }        
+      body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("http://apartmani-boom.com/images/pozadina.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+      
+      #copy{
+        color: whitesmoke;
+        background: black;
+      }
+     

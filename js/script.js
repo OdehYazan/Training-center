@@ -22,8 +22,8 @@ if (age == 'N')
 while (nCourse <= 0 ){
   var nCourse =  prompt ('How many courses you want ?' );
 }
- for (var i=1;i<=nCourse;i++){
-   document.write ('<img src="https://www.sp.edu.sg/images/default-source/sp-home-page/pace_5.jpg?size=600" alt="course" "width:="10px">');
+  for (var i=1;i<=nCourse;i++){
+ document.write ('<img src="https://www.sp.edu.sg/images/default-source/sp-home-page/pace_5.jpg?size=600" alt="course" >');
  }
 } else if (age == 'Y')
 {
